@@ -1,0 +1,6 @@
+Item: 			 Amount: 			 Location: 			 Cost: 			 Total Cost:
+apple				3					produce				0.99			2.97
+banana				2					produce				1.25			2.50
+orange				5					produce				1.99			9.95
+
+Final Cost: 					$15.42

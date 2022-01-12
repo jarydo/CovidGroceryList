@@ -1,0 +1,15 @@
+apple
+produce
+0.99
+3
+2.97
+banana
+produce
+1.25
+2
+2.50
+orange
+produce
+1.99
+5
+9.95
