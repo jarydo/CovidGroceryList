@@ -1,6 +1,8 @@
 # CovidGroceryList
 Final project for ICS4U (Grade 12 Computer Science)
 
+Received 100% on assignment
+
 Creates an interactive shopping list based on input from users and stores result in text file "database" for future uses. When desired, creates a text file 
 "receipt" (FinalMainList) that is organized by section of grocery store (such as produce, meats, etc.) and in alphabetical order to help the "designated shopper" 
 easily buy all desired items while spending as little time in store as possible.
