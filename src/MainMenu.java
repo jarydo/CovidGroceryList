@@ -134,7 +134,7 @@ public class MainMenu {
                 }
             }
             System.out.println();
-            System.out.println("Final Cost: \t\t\t\t\t" + df.format(finalCost));
+            System.out.println("Final Cost: \t\t\t\t\t$" + df.format(finalCost));
 
             pw.close();
             mainList();
