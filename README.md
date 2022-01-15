@@ -1,4 +1,4 @@
-# CovidGroceryList
+# Efficient-Grocery-List
 Final project for ICS4U (Grade 12 Computer Science)
 
 Received 100% on assignment
